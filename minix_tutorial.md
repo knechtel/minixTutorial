@@ -158,7 +158,6 @@ make build # this will recompile EVERYTHING. make services or make install may a
 
 # Info resources:
 * http://www.cis.syr.edu/~wedu/seed/Documentation/Minix3/How_to_add_system_call.pdf
-* http://www-di.inf.puc-rio.br/~endler//courses/inf1019/Minix/Instalacao_Syscall.pdf _(portuguese)_
 * http://homepages.cs.ncl.ac.uk/nick.cook/csc2025/minix/syscall-exercise1.html
 
 
